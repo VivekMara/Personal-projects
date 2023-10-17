@@ -1,6 +1,6 @@
 import tkinter as tk
 
-root tk.Tk()
+root = tk.Tk()
 
 root.title("Hello, Welcome to the World of Flappy bird")
 root.geometry("800x600")
